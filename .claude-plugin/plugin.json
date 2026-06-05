@@ -1,0 +1,16 @@
+{
+  "name": "flutter-skills",
+  "version": "1.0.0",
+  "description": "Flutter mobile application development skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/flutter-skills",
+  "repository": "https://github.com/full-statck-skills/flutter-skills",
+  "source": "./",
+  "skills": [
+    "./skills/flutter-project-creater",
+    "./skills/flutter"
+  ]
+}
